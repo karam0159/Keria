@@ -2,10 +2,20 @@
 
 <hr/>
 
-### HTML, CSS, SCSS, JAVASCRIPT, VUE JS, WEBPACK
-### 반응형 웹
+## 프로젝트 소개
+
+### -HTML, CSS, SCSS, JAVASCRIPT, VUE JS, WEBPACK
+### -반응형 웹
 
 <hr/>
 
-### 기능설명
+## 프로젝트 기능
 
+### -슬라이드 쇼
+### -탭 슬라이드
+### -각종 애니메이션
+
+## 프로젝트 페이지
+
+### -메인페이지
+### -
